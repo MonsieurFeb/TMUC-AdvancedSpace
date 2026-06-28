@@ -6,7 +6,9 @@
 
 Собери такую ракету, какую хочешь!
 
-[Здесь](https://docs.google.com/spreadsheets/d/1XOeydNA76awpKZZzC6i7ZtfCmIOEiywl1o1S69UHSIk/edit?usp=sharing) можно найти список модов и другую полезную информацию.
+[Здесь](https://docs.google.com/spreadsheets/d/1JaMyV3vZr6UpNfWLS2TlaSugPgv-X_p9Uc69a-wtTQI/edit?usp=sharing) можно найти список модов и другую полезную информацию.
+
+Пока что репозиторий не несёт иной ценности, кроме информативной. Сборки [тут](https://disk.yandex.ru/d/6JQj-CbCi2eAQA) и [тут](https://drive.google.com/drive/folders/1n-9NkwgSUx59pGQplBwwx4Zcn1VGLe3S?usp=sharing)
 
 # Installation
 - Установите Minecraft 1.12.2. Выберите одну из папок (пустых) и запомните её.
